@@ -11,7 +11,7 @@ Python Source Code of **Extracting the X-Ray Reverberation Response Functions fr
 - Scipy
 - Scikit-Learn
 ---
----
+
 Users may use their own simulated lightcurves and responses, for training and deploy the model to a real data. Checkpoint file will be written every 100 iterations. At the end of the computation, predicted response functions and  shall be saves as `.json` format.
 
 ---
