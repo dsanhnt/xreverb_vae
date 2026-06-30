@@ -1,4 +1,4 @@
-# xrverb_vae
+# XREVERB_VAE
 Python Source Code of **Extracting the X-Ray Reverberation Response Functions from the Active Galactic Nucleus Light Curves Using an Autoencoder** \
 [Deesamutara et. al (2025), ApJ 980:257](https://ui.adsabs.harvard.edu/link_gateway/2025ApJ...980..257D/doi:10.3847/1538-4357/adae85)
 
